@@ -1,0 +1,16 @@
+{
+  "data_root": "<DATA_ROOT>",
+  "n_date_ic_rows": 517347,
+  "n_delta_rows": 486,
+  "n_fold_metric_rows": 486,
+  "runs": [
+    "jo.base",
+    "jo.select",
+    "jo.select2"
+  ],
+  "splits": [
+    "train",
+    "oos"
+  ],
+  "warnings": []
+}

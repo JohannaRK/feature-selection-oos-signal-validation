@@ -1,0 +1,5 @@
+outputs_jo_compare/
+*.pyc
+__pycache__/
+.DS_Store
+

@@ -1,0 +1,6 @@
+{
+  "data_root": "data",
+  "runs": ["jo.base", "jo.select", "jo.select2"],
+  "splits": ["train", "oos"],
+  "out_dir": "outputs_jo_compare"
+}
